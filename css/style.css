@@ -1,0 +1,15 @@
+html {
+    background-color: peachpuff;
+}
+.food-img {
+    height: 300px;
+    width: auto;
+}
+h1 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
